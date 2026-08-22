@@ -342,6 +342,78 @@ let language = JSON.parse(`
             "b": ["preocupe", false],
             "c": ["arrependa", false],
             "d": ["castigue", false]
+        },
+        
+        {
+            "g": "Tom fala inglês com um ___ francês.",
+            "e": "Tom speaks English with a French accent.",
+            "a": ["sotaque", true],
+            "b": ["dialeto", false],
+            "c": ["pronúncia", false],
+            "d": ["vocabulário", false]
+        },
+
+        {
+            "g": "Ele não tem ___ de cobras de forma alguma.",
+            "e": "He is not afraid of snakes at all.",
+            "a": ["medo", true],
+            "b": ["horror", false],
+            "c": ["ódio", false],
+            "d": ["receio", false]
+        },
+
+        {
+            "g": "Está ___.",
+            "e": "It is locked.",
+            "a": ["trancado", true],
+            "b": ["fechado", false],
+            "c": ["bloqueado", false],
+            "d": ["protegido", false]
+        },
+
+        {
+            "g": "___ John para ser o capitão do time.",
+            "e": "They chose John to be the team captain.",
+            "a": ["Escolheram", true],
+            "b": ["Nomearam", false],
+            "c": ["Elegeram", false],
+            "d": ["Convidaram", false]
+        },
+
+        {
+            "g": "Este é um pedido bastante ___.",
+            "e": "This is a rather unusual request.",
+            "a": ["incomum", true],
+            "b": ["estranho", false],
+            "c": ["raro", false],
+            "d": ["inesperado", false]
+        },
+
+        {
+            "g": "___, é um trabalho.",
+            "e": "However, it is a job.",
+            "a": ["Contudo", true],
+            "b": ["Entretanto", false],
+            "c": ["Todavia", false],
+            "d": ["Portanto", false]
+        },
+
+        {
+            "g": "Será que esse trem tem ___?",
+            "e": "Does this train have a sleeping car?",
+            "a": ["vagão-leito", true],
+            "b": ["vagão-restaurante", false],
+            "c": ["vagão de carga", false],
+            "d": ["vagão de passageiros", false]
+        },
+
+        {
+            "g": "Ele assumiu a ___ do partido.",
+            "e": "He took over the leadership of the party.",
+            "a": ["liderança", true],
+            "b": ["direção", false],
+            "c": ["presidência", false],
+            "d": ["administração", false]
         }
     ]
 ]`);
