@@ -297,6 +297,51 @@ let language = JSON.parse(`
             "b": ["falar", false],
             "c": ["lembrar", false],
             "d": ["sonhar", false]
+        },
+
+        {
+            "g": "Você pode ___ um charuto quando crescer.",
+            "e": "You can smoke a cigar when you grow up.",
+            "a": ["fumar", true],
+            "b": ["acender", false],
+            "c": ["comprar", false],
+            "d": ["experimentar", false]
+        },
+
+        {
+            "g": "Estou incrivelmente ___.",
+            "e": "I am incredibly busy.",
+            "a": ["ocupado", true],
+            "b": ["cansado", false],
+            "c": ["preocupado", false],
+            "d": ["atrasado", false]
+        },
+
+        {
+            "g": "Um amigo meu me ___ ontem à noite.",
+            "e": "A friend of mine called me last night.",
+            "a": ["telefonou", true],
+            "b": ["visitou", false],
+            "c": ["encontrou", false],
+            "d": ["convidou", false]
+        },
+
+        {
+            "g": "___ como eu!",
+            "e": "Act like me!",
+            "a": ["Aja", true],
+            "b": ["Seja", false],
+            "c": ["Fale", false],
+            "d": ["Pense", false]
+        },
+
+        {
+            "g": "Não se ___!",
+            "e": "Don't blame yourself!",
+            "a": ["culpe", true],
+            "b": ["preocupe", false],
+            "c": ["arrependa", false],
+            "d": ["castigue", false]
         }
     ]
 ]`);
